@@ -134,8 +134,8 @@ public class HelloController {
 
 Output:
 
-<img width="673" height="297" alt="image" src="https://github.com/user-attachments/assets/c31ee051-8ca4-4df0-a407-46c9cc27c177" />
-
+[<img width="673" height="297" alt="image" src="https://github.com/user-attachments/assets/c31ee051-8ca4-4df0-a407-46c9cc27c177" />
+](https://private-user-images.githubusercontent.com/128461833/504572621-ba962ffa-c440-4cb2-8424-ad22310f3332.png?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NjM3MDM1NzEsIm5iZiI6MTc2MzcwMzI3MSwicGF0aCI6Ii8xMjg0NjE4MzMvNTA0NTcyNjIxLWJhOTYyZmZhLWM0NDAtNGNiMi04NDI0LWFkMjIzMTBmMzMzMi5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjUxMTIxJTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI1MTEyMVQwNTM0MzFaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT0xMjA3OGM1Y2NiZmIzNDVmZmEwMTlmNDgwNDMwZTJlMDg1MTc5M2Y4NDQxNTgwODJlNzU5MDIyMmQxZDRjYzNjJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCJ9.poV59D5AO-z660htmvF_TIZxISZ7Xc525LWjygXsafI)
 ### Result:
 Thus, program for Simple Web Server using Spring Boot is executed.
 
