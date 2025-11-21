@@ -1,3 +1,5 @@
+## Name: JAI SRIRAM S
+## Reg N0: 212222040057
 
 ## Ex 01 -Simple Web Server using Spring Boot
 
@@ -31,7 +33,7 @@ Run the application using your IDE or via the command line (mvn spring-boot:run 
 Test the Endpoint:
 
 Open a web browser or use Postman to visit:
-http://localhost:8080/print
+http://localhost:8080/hello
 
 You should see the output (e.g., "Hello World").
 
@@ -41,7 +43,7 @@ Stop the Spring Boot server once testing is complete.
 
 
 ## Program 
-```
+
 simple-web-server/
 ├── src/
 │   └── main/
@@ -52,7 +54,7 @@ simple-web-server/
 │       └── resources/
 │           └── application.properties
 ├── pom.xml
-```
+
  ### Pom.xml
 
 <project xmlns="http://maven.apache.org/POM/4.0.0"
@@ -131,7 +133,9 @@ public class HelloController {
 
 
 Output:
-<img width="1913" height="958" alt="image" src="https://github.com/user-attachments/assets/ba962ffa-c440-4cb2-8424-ad22310f3332" />
 
+<img width="673" height="297" alt="image" src="https://github.com/user-attachments/assets/c31ee051-8ca4-4df0-a407-46c9cc27c177" />
 
+### Result:
+Thus, program for Simple Web Server using Spring Boot is executed.
 
